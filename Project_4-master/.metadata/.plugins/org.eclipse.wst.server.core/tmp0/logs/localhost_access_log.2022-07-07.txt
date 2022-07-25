@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Jul/2022:16:56:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:16:56:25 +0530] "GET /Project_4/ HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:16:56:25 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:16:56:29 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 1603
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:16:56:29 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:11 +0530] "GET /Project_4/LoginCtl HTTP/1.1" 200 3519
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:12 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:27 +0530] "POST /Project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:27 +0530] "GET /Project_4/WelcomeCtl HTTP/1.1" 200 3195
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:27 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:34 +0530] "GET /Project_4/ctl/UserListCtl HTTP/1.1" 200 12721
+0:0:0:0:0:0:0:1 - - [07/Jul/2022:17:05:34 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784

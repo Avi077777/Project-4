@@ -1,0 +1,86 @@
+
+Jun 24, 2022 15:55:34.64 NEW SESSION
+Jun 24, 2022 15:55:34.64 [36728:24488:0624/155534.622:ERROR:device_event_log_impl.cc(214)] [15:55:34.627] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 24, 2022 15:55:34.64 [36728:24488:0624/155534.630:ERROR:device_event_log_impl.cc(214)] [15:55:34.631] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 24, 2022 15:56:28.95 [36728:39800:0624/155628.959:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 24, 2022 16:29:24.81 [36728:24916:0624/162924.800:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2022 16:29:25.04 [36728:24916:0624/162925.044:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 25, 2022 14:46:17.58 [31004:34004:0625/144617.583:ERROR:device_event_log_impl.cc(214)] [14:46:17.583] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 14:46:17.67 [31004:34004:0625/144617.586:ERROR:device_event_log_impl.cc(214)] [14:46:17.585] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 14:47:13.40 [31004:28820:0625/144713.400:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 25, 2022 15:08:47.08 [31004:29512:0625/150846.729:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 25, 2022 15:20:06.83 [35480:31288:0625/152006.837:ERROR:device_event_log_impl.cc(214)] [15:20:06.837] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 15:20:06.95 [35480:31288:0625/152006.838:ERROR:device_event_log_impl.cc(214)] [15:20:06.838] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 15:21:04.75 [35480:35396:0625/152104.759:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 25, 2022 17:55:08.41 [35480:20736:0625/175508.399:ERROR:connection_handler_impl.cc(471)] Timed out waiting for GCM Protocol buffer.
+Jun 25, 2022 18:04:16.06 [39820:19968:0625/180416.066:ERROR:device_event_log_impl.cc(214)] [18:04:16.066] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 18:04:16.16 [39820:19968:0625/180416.066:ERROR:device_event_log_impl.cc(214)] [18:04:16.066] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 25, 2022 18:05:13.86 [39820:24972:0625/180513.864:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 27, 2022 14:52:48.27 NEW SESSION
+Jun 27, 2022 14:52:48.27 [38980:40380:0627/145248.265:ERROR:device_event_log_impl.cc(214)] [14:52:48.265] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 14:52:48.29 [38980:40380:0627/145248.271:ERROR:device_event_log_impl.cc(214)] [14:52:48.271] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 14:53:45.49 [38980:45512:0627/145345.497:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 27, 2022 15:59:41.97 [38980:36064:0627/155941.946:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jun 27, 2022 15:59:44.46 [38980:36064:0627/155944.462:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2022 16:37:33.28 [30116:43680:0627/163733.283:ERROR:device_event_log_impl.cc(214)] [16:37:33.283] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 16:37:33.28 [30116:43680:0627/163733.284:ERROR:device_event_log_impl.cc(214)] [16:37:33.284] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 16:38:31.11 [30116:40972:0627/163831.115:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 27, 2022 16:41:18.59 NEW SESSION
+Jun 27, 2022 16:41:18.59 [42836:33372:0627/164118.587:ERROR:device_event_log_impl.cc(214)] [16:41:18.588] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 16:41:18.69 [42836:33372:0627/164118.589:ERROR:device_event_log_impl.cc(214)] [16:41:18.589] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 16:42:14.42 [42836:20960:0627/164214.424:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 27, 2022 17:29:53.66 NEW SESSION
+Jun 27, 2022 17:29:53.66 [11396:5568:0627/172953.666:ERROR:device_event_log_impl.cc(214)] [17:29:53.665] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 17:29:53.67 [11396:5568:0627/172953.668:ERROR:device_event_log_impl.cc(214)] [17:29:53.667] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 27, 2022 17:30:51.58 [11396:1672:0627/173051.585:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jun 28, 2022 14:04:49.89 NEW SESSION
+Jun 28, 2022 14:04:49.89 [5236:7480:0628/140449.896:ERROR:device_event_log_impl.cc(214)] [14:04:49.897] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 28, 2022 14:04:50.04 [5236:7480:0628/140449.896:ERROR:device_event_log_impl.cc(214)] [14:04:49.898] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 28, 2022 14:04:52.11 [5236:7480:0628/140452.111:ERROR:gcm_message_cryptographer.cc(376)] Unable to transform the record.
+Jun 28, 2022 14:05:47.73 [5236:10320:0628/140547.730:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jun 28, 2022 15:47:07.22 [5236:6076:0628/154704.877:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2022 15:47:07.41 [5236:6076:0628/154707.411:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2022 16:10:03.81 [5236:6076:0628/161003.816:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2022 17:26:03.86 [5236:6076:0628/172603.861:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2022 17:26:06.26 [5236:6076:0628/172605.873:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Jun 29, 2022 15:33:52.58 NEW SESSION
+Jun 29, 2022 15:33:52.59 [4064:7076:0629/153352.582:ERROR:device_event_log_impl.cc(214)] [15:33:52.582] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 29, 2022 15:33:52.66 [4064:7076:0629/153352.583:ERROR:device_event_log_impl.cc(214)] [15:33:52.583] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jun 29, 2022 15:34:49.76 [4064:17060:0629/153449.762:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 03, 2022 08:04:38.89 NEW SESSION
+Jul 03, 2022 08:04:38.89 [3056:5328:0703/080438.626:ERROR:device_event_log_impl.cc(214)] [08:04:38.626] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 03, 2022 08:04:38.89 [3056:5328:0703/080438.627:ERROR:device_event_log_impl.cc(214)] [08:04:38.627] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 03, 2022 08:05:35.68 [3056:6320:0703/080535.680:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 04, 2022 18:39:32.28 NEW SESSION
+Jul 04, 2022 18:39:32.28 [14892:11028:0704/183932.276:ERROR:device_event_log_impl.cc(214)] [18:39:32.276] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 04, 2022 18:39:32.29 [14892:11028:0704/183932.277:ERROR:device_event_log_impl.cc(214)] [18:39:32.277] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 04, 2022 18:40:29.28 [14892:16244:0704/184029.280:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 04, 2022 23:32:04.13 NEW SESSION
+Jul 04, 2022 23:32:04.13 [19248:10192:0704/233204.124:ERROR:device_event_log_impl.cc(214)] [23:32:04.124] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 04, 2022 23:32:04.14 [19248:10192:0704/233204.125:ERROR:device_event_log_impl.cc(214)] [23:32:04.125] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 04, 2022 23:33:01.02 [19248:15340:0704/233301.025:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 07, 2022 16:56:27.83 NEW SESSION
+Jul 07, 2022 16:56:27.83 [6048:13828:0707/165627.830:ERROR:device_event_log_impl.cc(214)] [16:56:27.830] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 07, 2022 16:56:27.85 [6048:13828:0707/165627.831:ERROR:device_event_log_impl.cc(214)] [16:56:27.830] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 07, 2022 16:57:24.35 [6048:25928:0707/165724.352:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 08, 2022 09:58:01.32 [6048:24916:0708/095801.324:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Jul 08, 2022 09:58:01.35 [6048:26380:0708/095801.345:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jul 08, 2022 10:01:41.82 [4112:13996:0708/100141.820:ERROR:device_event_log_impl.cc(214)] [10:01:41.820] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 10:01:41.82 [4112:13996:0708/100141.821:ERROR:device_event_log_impl.cc(214)] [10:01:41.821] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 10:02:39.00 [4112:25628:0708/100239.003:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 08, 2022 21:59:33.91 [4112:11348:0708/215933.910:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Jul 19, 2022 16:39:45.74 NEW SESSION
+Jul 19, 2022 16:39:45.74 [15184:27164:0719/163945.738:ERROR:device_event_log_impl.cc(214)] [16:39:45.737] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 19, 2022 16:39:45.86 [15184:27164:0719/163945.739:ERROR:device_event_log_impl.cc(214)] [16:39:45.739] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 19, 2022 16:39:53.19 [15184:27164:0719/163953.195:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Jul 19, 2022 16:40:41.24 [15184:22556:0719/164041.239:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
